@@ -1,10 +1,5 @@
-description :::  This Python script uses OpenAI's Whisper model to transcribe audio files into text. It allows the user to input the full path of an audio file, and upon successful transcription, it prints the transcribed text. It supports various audio file formats for transcription.  
 
-
-
-readme :::
-
-# Audio Transcription using OpenAI Whisper
+# Whisper To Text
 
 This project provides a simple Python script that uses OpenAI's Whisper model to transcribe audio files into text. The script prompts the user to input the full path to an audio file, processes it using Whisper, and prints the transcribed text.
 
